@@ -1,0 +1,46 @@
+{
+  "$schema": "schema.json",
+  "includes": ["common/common.json"],
+  "background": {
+    "texture": "guis/wireless.png",
+    "srcRect": [0, 0, 200, 178]
+  },
+  "slots": {
+
+  },
+  "text": {
+    "dialog_title": {
+      "text": {
+        "translate": "gui.aewireless.wireless"
+      },
+      "position": {
+        "left": 8,
+        "top": 6
+      }
+    }
+  },
+  "widgets": {
+    "scrollbar": {
+      "left": 90,
+      "top": 47
+    },
+    "input": {
+      "left": 10,
+      "top": 20,
+      "width": 83,
+      "height": 12
+    },
+    "add": {
+      "left": 102,
+      "top": 18
+    },
+    "remove": {
+      "left": 120,
+      "top": 18
+    },
+    "mode": {
+      "left": 138,
+      "top": 18
+    }
+  }
+}

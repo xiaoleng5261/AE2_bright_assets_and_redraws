@@ -1,0 +1,23 @@
+{
+  "$schema": "schema.json",
+  "includes": [
+    "universal_terminal_no_viewcells.json"
+  ],
+  "widgets": {
+    "upgrades": {
+      "$comment": "The upgrade panel found on some screens",
+      "right": 4,
+      "top": 117
+    },
+    "singularityBackground": {
+      "right": 4,
+      "top": 99
+    }
+  },
+  "slots": {
+    "AE2WTLIB_SINGULARITY": {
+      "right": -4,
+      "top": 107
+    }
+  }
+}

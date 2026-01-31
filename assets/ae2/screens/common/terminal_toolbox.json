@@ -1,0 +1,29 @@
+{
+  "$schema": "../schema.json",
+  "slots": {
+    "TOOLBOX": {
+      "$comment": "Only relevant if the toolbox is present (i.e. network tool)",
+	  "left": -51,
+      "bottom": 84,
+      "right": 20,
+      "grid": "BREAK_AFTER_3COLS"
+    }
+  },
+  "images": {
+    "toolbox": {
+      "texture": "guis/extra_panels.png",
+      "textureWidth": 128,
+      "textureHeight": 128,
+      "srcRect": [0, 62, 59, 66]
+    }
+  },
+  "widgets": {
+    "toolbox": {
+      "$comment": "The toolbox found on some screens",
+      "left": -57,
+      "bottom": 90,
+      "width": 59,
+      "height": 66
+    }
+  }
+}

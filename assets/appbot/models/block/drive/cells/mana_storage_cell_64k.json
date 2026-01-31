@@ -1,0 +1,6 @@
+{
+  "parent": "ae2:block/drive/drive_cell",
+  "textures": {
+    "cell": "appbot:block/drive/cells/mana_storage_cell_64k"
+  }
+}

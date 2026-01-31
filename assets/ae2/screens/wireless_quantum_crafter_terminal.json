@@ -1,0 +1,9 @@
+{
+  "$schema": "schema.json",
+  "includes": [
+    "../quantum_crafter_terminal.json",
+    "common/toolbox.json",
+	"common/player_inventory.json",
+    "../wtlib/universal_terminal_no_viewcells.json"
+  ]
+}

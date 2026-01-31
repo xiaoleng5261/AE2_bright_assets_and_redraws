@@ -1,0 +1,33 @@
+{
+  "$schema": "schema.json",
+  "slots": {
+    "AE2WTLIB_SINGULARITY": {
+      "right": -4,
+      "top": 6
+    }
+  },
+  "images": {
+    "singularityBackground": {
+      "texture": "guis/extra_panels.png",
+      "textureWidth": 128,
+      "textureHeight": 128,
+      "srcRect": [
+        60,
+        0,
+        32,
+        25
+      ]
+    }
+  },
+  "widgets": {
+    "upgrades": {
+      "$comment": "The upgrade panel found on some screens",
+      "right": 4,
+      "top": 16
+    },
+	"singularityBackground": {
+      "right": 4,
+      "top": -2
+    }
+  }
+}
