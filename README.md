@@ -8,7 +8,7 @@
   5. Redraw the materials of some niche modules to make them more like bright-colored AE equipment.
   6. Draw a few items exclusive to the creative mode as dynamic materials.
   7. Modified the shortcut inventory style.
- Yes, this texture pack was born entirely for the aesthetic effect, so it does not fully comply with the painting rules and styles of AE2 highlight materials, but I tried my best to draw, it is a matter of ability.
+  . Yes, this texture pack was born entirely for the aesthetic effect, so it does not fully comply with the painting rules and styles of AE2 highlight materials, but I tried my best to draw, it is a matter of ability.
 # Compatible mods:
   1. Applied_Energistics2
   2. AdvancedAE
@@ -53,7 +53,7 @@
  6. The ME Requester Backport folder is licensed under LGPL 3.0，
  7. The resources of ME_Beam_Former are hand-drawn and shared by the original author and allowed to be modified by me. Thanks to fish_dan，
  8. And AE2 Light Mode Backport folder is licensed underAttribution-NonCommercial-ShareAlike 4.0 International，
-Please forgive me for not finding more licenses for the materials, but the owners of all non-original resources and modified resources are their original authors, and the resources I redrawn also follow the MIT license，
+ . Please forgive me for not finding more licenses for the materials, but the owners of all non-original resources and modified resources are their original authors, and the resources I redrawn also follow the MIT license，
 # picture
 Oh no, I don't know how to upload it yet. . . .
 
