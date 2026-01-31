@@ -28,38 +28,32 @@
   16.Useless_Mod
   17.GTOEX——(Unpublished)
 # Quote：
-  Original Applied_Energistics2 Mod : https://modrinth.com/mod/ae2
-  Original AdvancedAE Mod : https://modrinth.com/mod/advancedae
-  Original ExtenedAE Mod : https://modrinth.com/mod/extended-ae
-  Original AE_Additions Mod : https://modrinth.com/mod/ae-additions
-  Original Applied_Energistics_2_wireless_Terminals Mod : https://modrinth.com/mod/applied-energistics-2-wireless-terminals
-  Original Applied_Flux Mod : https://www.curseforge.com/minecraft/mc-mods/applied-flux
-  Original MEGA_Cells Mod : https://modrinth.com/mod/mega
-  Original Applied_Botanics_Addon Mod : https://modrinth.com/mod/applied-botanics
-  Original Applied_Mekanistics Mod : https://modrinth.com/mod/applied-mekanistics
-  Original ME_Requester Mod : https://modrinth.com/mod/merequester
-  Original AppliedE Mod : https://modrinth.com/mod/appliede
-  Original ExtendedAE_plus Mod : https://modrinth.com/mod/extendedae-plus
-  Original ME_Beam_Former Mod : https://modrinth.com/mod/me-beam-former
-  Original AE_Wireless_Transceiver Mod : https://modrinth.com/mod/ae-wireless-transceiver
-  Original AE2_Toggleable_View_Cell Mod : https://modrinth.com/mod/ae2-toggleable-viewcell
-  Original Useless_Mod Mod : https://modrinth.com/mod/a-useless-mod
+  Original Applied_Energistics2 Mod : https://modrinth.com/mod/ae2，
+  Original AdvancedAE Mod : https://modrinth.com/mod/advancedae，
+  Original ExtenedAE Mod : https://modrinth.com/mod/extended-ae，
+  Original AE_Additions Mod : https://modrinth.com/mod/ae-additions，
+  Original Applied_Energistics_2_wireless_Terminals Mod : https://modrinth.com/mod/applied-energistics-2-wireless-terminals，
+  Original Applied_Flux Mod : https://www.curseforge.com/minecraft/mc-mods/applied-flux，
+  Original MEGA_Cells Mod : https://modrinth.com/mod/mega，
+  Original Applied_Botanics_Addon Mod : https://modrinth.com/mod/applied-botanics，
+  Original Applied_Mekanistics Mod : https://modrinth.com/mod/applied-mekanistics，
+  Original ME_Requester Mod : https://modrinth.com/mod/merequester，
+  Original AppliedE Mod : https://modrinth.com/mod/appliede，
+  Original ExtendedAE_plus Mod : https://modrinth.com/mod/extendedae-plus，
+  Original ME_Beam_Former Mod : https://modrinth.com/mod/me-beam-former，
+  Original AE_Wireless_Transceiver Mod : https://modrinth.com/mod/ae-wireless-transceiver，
+  Original AE2_Toggleable_View_Cell Mod : https://modrinth.com/mod/ae2-toggleable-viewcell，
+  Original Useless_Mod Mod : https://modrinth.com/mod/a-useless-mod，
 # License：
- The AE2 Backport folder is licensed under CC-BY-NC-SA-4.0
- The AdvancedAE Backport folder is licensed under LGPL 3.0
- The Extended AE2 Backport folder is licensed under LGPL 3.0
- The AE2WTLib Backport folder is licensed under CC-BY-NC-SA-4.0
- The AppliedE Backport folder is licensed under CC-BY-NC-SA-3.0
- The ME Requester Backport folder is licensed under LGPL 3.0
- The resources of ME_Beam_Former are hand-drawn and shared by the original author and allowed to be modified by me. Thanks to fish_dan
- And AE2 Light Mode Backport folder is licensed underAttribution-NonCommercial-ShareAlike 4.0 International
- Please forgive me for not finding more licenses for the materials, but the owners of all non-original resources and modified resources are their original authors, and the resources I redrawn also follow the MIT license
+ The AE2 Backport folder is licensed under CC-BY-NC-SA-4.0，
+ The AdvancedAE Backport folder is licensed under LGPL 3.0，
+ The Extended AE2 Backport folder is licensed under LGPL 3.0，
+ The AE2WTLib Backport folder is licensed under CC-BY-NC-SA-4.0，
+ The AppliedE Backport folder is licensed under CC-BY-NC-SA-3.0，
+ The ME Requester Backport folder is licensed under LGPL 3.0，
+ The resources of ME_Beam_Former are hand-drawn and shared by the original author and allowed to be modified by me. Thanks to fish_dan，
+ And AE2 Light Mode Backport folder is licensed underAttribution-NonCommercial-ShareAlike 4.0 International，
+ Please forgive me for not finding more licenses for the materials, but the owners of all non-original resources and modified resources are their original authors, and the resources I redrawn also follow the MIT license，
 # picture
-
-
-
-
-
-
-
+Oh no, I don't know how to upload it yet. . . .
 
