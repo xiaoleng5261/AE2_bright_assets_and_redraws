@@ -1,0 +1,8 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with _leng",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "arseng:item/creative_source_cell"
+	}
+}
