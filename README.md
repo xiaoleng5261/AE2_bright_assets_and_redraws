@@ -27,6 +27,8 @@
   15. AE2_Toggleable_View_Cell
   16. Useless_Mod
   17. GTOEX——(Unpublished)
+  18. Ars Energistique
+
 # Quote：
   1. Original Applied_Energistics2 Mod : https://modrinth.com/mod/ae2，
   2. Original AdvancedAE Mod : https://modrinth.com/mod/advancedae，
@@ -44,6 +46,8 @@
   14. Original AE_Wireless_Transceiver Mod : https://modrinth.com/mod/ae-wireless-transceiver，
   15. Original AE2_Toggleable_View_Cell Mod : https://modrinth.com/mod/ae2-toggleable-viewcell，
   16. Original Useless_Mod Mod : https://modrinth.com/mod/a-useless-mod，
+  17. Original ars_energistique Mod : https://modrinth.com/mod/ars-energistique
+
 # License：
  1. The AE2 Backport folder is licensed under CC-BY-NC-SA-4.0，
  2. The AdvancedAE Backport folder is licensed under LGPL 3.0，
