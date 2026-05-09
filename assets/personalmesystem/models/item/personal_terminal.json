@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with _leng",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"particle": "personalmesystem:item/personal_wireless_terminal",
+		"layer0": "personalmesystem:item/personal_wireless_terminal"
+	}
+}
