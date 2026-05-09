@@ -1,0 +1,27 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with _leng",
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"1": "unae2addon:block/auto_bottom",
+		"2": "unae2addon:block/auto_noth",
+		"3": "unae2addon:block/auto_side",
+		"4": "unae2addon:block/auto_south",
+		"particle": "unae2addon:block/autoterrasteel/autoterrasteel",
+		"top": "unae2addon:block/autoterrasteel/autoterrasteel"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#4", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "south"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#3", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "down"}
+			}
+		}
+	]
+}
